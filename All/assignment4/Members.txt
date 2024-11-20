@@ -1,0 +1,5 @@
+M001,John,john@gmail.com,Monthly,0123456789,active
+M004,mem4,mem4@example.com,Monthly,044,Active
+M002,member2,mem2@example.com,Monthly,0222,Active
+M003,member3,mem3@example.com,Monthly,0333,Active
+a,a,a,Membership Type,a,Status
